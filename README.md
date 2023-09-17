@@ -22,8 +22,16 @@ Creo en el poder de la colaboración y la comunidad en el mundo del desarrollo d
 
 ## Mis Habilidades
 
+ ![html](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/37e4ceb7-0aa4-4804-bc28-11a22d571853)
+ ![css](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/31d61150-199b-4119-b608-335c0fdffb7c)
+ ![js](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/b7ad377e-78d5-482c-8f47-db16af98f04c)
+ ![typescrypt](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/bddd32dd-464f-4eb5-b4a0-04ee963f1960)
  ![csharp](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/295f5f63-567d-4407-b834-960c6e6585e6)
- ![csharp](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/295f5f63-567d-4407-b834-960c6e6585e6)
+ ![java](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/2d678864-3498-4ab3-a7a8-c3c210681680)
+ ![php](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/ef28ed5d-77aa-46ed-949a-90b41e37bb0f)
+ ![react](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/7fde0fc7-6352-4040-a4bc-d33c65c22c50)
+ ![angular](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/aab45ec1-54e5-4841-8f87-bf24f9c1d8ea)
+
 - **Back-end:** [Lista de tecnologías de back-end en las que eres experto].
 - **Bases de Datos:** [Lista de bases de datos con las que tienes experiencia].
 - **Herramientas y Metodologías:** [Herramientas y metodologías que utilizas, como Git, Scrum, etc.].
