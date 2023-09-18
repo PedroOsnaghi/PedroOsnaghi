@@ -32,10 +32,5 @@ Creo en el poder de la colaboración y la comunidad en el mundo del desarrollo d
  ![react](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/7fde0fc7-6352-4040-a4bc-d33c65c22c50)
  ![angular](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/aab45ec1-54e5-4841-8f87-bf24f9c1d8ea)
 
-- **Back-end:** [Lista de tecnologías de back-end en las que eres experto].
-- **Bases de Datos:** [Lista de bases de datos con las que tienes experiencia].
-- **Herramientas y Metodologías:** [Herramientas y metodologías que utilizas, como Git, Scrum, etc.].
 
-
-
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. Juntos podemos hacer que el mundo digital sea un lugar mejor y más emocionante.
+¡Gracias por visitar mi perfil de GitHub! 
