@@ -31,6 +31,8 @@ Creo en el poder de la colaboración y la comunidad en el mundo del desarrollo d
  ![php](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/ef28ed5d-77aa-46ed-949a-90b41e37bb0f)
  ![react](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/7fde0fc7-6352-4040-a4bc-d33c65c22c50)
  ![angular](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/aab45ec1-54e5-4841-8f87-bf24f9c1d8ea)
+ ![node](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/5845f1a8-33ae-4669-9729-e5a1c8c3025f)
+ ![next](https://github.com/PedroOsnaghi/PedroOsnaghi/assets/64754865/2140f91f-da57-479f-9f07-e66c61a00bf6)
 
 
 ¡Gracias por visitar mi perfil de GitHub! 
